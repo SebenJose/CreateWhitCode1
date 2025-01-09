@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Create Whit Code\\Proctotype_2_planeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7DEDFD-2FF9-22C0-D0C6-D1B61BED0F2D}|Assembly-CSharp.csproj|c:\\create whit code\\proctotype_2_planegame\\assets\\challenge 1\\scripts\\propellerspim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7DEDFD-2FF9-22C0-D0C6-D1B61BED0F2D}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\propellerspim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7DEDFD-2FF9-22C0-D0C6-D1B61BED0F2D}|Assembly-CSharp.csproj|c:\\create whit code\\proctotype_2_planegame\\assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7DEDFD-2FF9-22C0-D0C6-D1B61BED0F2D}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FollowPlayerX.cs",
+              "DocumentMoniker": "C:\\Create Whit Code\\Proctotype_2_planeGame\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ToolTip": "C:\\Create Whit Code\\Proctotype_2_planeGame\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:52:15.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropellerSpim.cs",
+              "DocumentMoniker": "C:\\Create Whit Code\\Proctotype_2_planeGame\\Assets\\Challenge 1\\Scripts\\PropellerSpim.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PropellerSpim.cs",
+              "ToolTip": "C:\\Create Whit Code\\Proctotype_2_planeGame\\Assets\\Challenge 1\\Scripts\\PropellerSpim.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PropellerSpim.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:44:57.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

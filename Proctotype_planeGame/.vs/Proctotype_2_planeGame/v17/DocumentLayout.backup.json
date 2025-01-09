@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Create Whit Code\\Proctotype_2_planeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7DEDFD-2FF9-22C0-D0C6-D1B61BED0F2D}|Assembly-CSharp.csproj|c:\\create whit code\\proctotype_2_planegame\\assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7DEDFD-2FF9-22C0-D0C6-D1B61BED0F2D}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Create Whit Code\\Proctotype_1\\Assets\\comandos\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Create Whit Code\\Proctotype_1\\Assets\\comandos\\PlayerController.cs",
+              "RelativeDocumentMoniker": "..\\Proctotype_1\\Assets\\comandos\\PlayerController.cs",
+              "ToolTip": "C:\\Create Whit Code\\Proctotype_1\\Assets\\comandos\\PlayerController.cs",
+              "RelativeToolTip": "..\\Proctotype_1\\Assets\\comandos\\PlayerController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:10:29.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Create Whit Code\\Proctotype_2_planeGame\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Create Whit Code\\Proctotype_2_planeGame\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:08:35.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
